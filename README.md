@@ -3,6 +3,7 @@
 
 * Wiki https://github.com/faxcorp/SplineArchitectDocumentation/wiki
 * Example Project (UE 5.4) https://github.com/faxlab3d/SplineArchitectExampleProject
+* FAB https://www.fab.com/listings/356b1d13-5080-4418-893d-5a39546bc276
 
 ![feat](https://github.com/user-attachments/assets/30a2d76f-7e9c-4be9-b6ee-8e748222034f)
 ![image](https://github.com/user-attachments/assets/c833afe8-86ba-4c4a-a200-95b0bb2b795e)
